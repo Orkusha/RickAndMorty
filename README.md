@@ -1,5 +1,5 @@
 # RickAndMorty
-![](https://github.com/Orkusha/RickAndMorty/blob/main/header.png)
+![](https://github.com/Orkusha/RickAndMorty/blob/main/header.gif)
 
 demo app working with UICollectionView and JSON.
 
