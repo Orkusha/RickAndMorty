@@ -47,7 +47,7 @@ private extension DetailViewController {
     private func setupSubviews() {
         view.backgroundColor = .black
         navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.white]
-        navigationController?.navigationBar.prefersLargeTitles = false
+        navigationController?.navigationBar.prefersLargeTitles = true
         title = object?.name ?? ""
         
         conteinerView.backgroundColor = .black
